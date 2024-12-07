@@ -1,0 +1,115 @@
+county_name,county_political_region,county_public_health_region,county_size,Number,Number Rank,Crude_rate,Crude Rank,physicians,physicians_per_10k,substance_admissions,population,substance_rate,,1
+Adair,Third Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,2,2.7,60,7496,80.04,,0
+Adams,Third Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,5,13.5,23,3704,62.1,,1
+Allamakee,First Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,5,3.6,69,14061,49.07,,0
+Appanoose,Second Congressional District,Public Health Region Five,"Medium (10,000-20,000)",0,33,0,33,10,8.1,148,12317,120.16,,0
+Audubon,Fourth Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,4,7.1,51,5674,89.88,,1
+Benton,First Congressional District,Public Health Region Six,MSA,0,33,0,33,4,1.6,137,25575,53.57,,0
+Blackhawk,First Congressional District,Public Health Region Six,MSA,12,6,9.1,19,269,20.5,978,131144,74.57,,0
+Boone,Fourth Congressional District,Public Health Region One,"Large (> 20,000)",1,21,3.7,30,16,6,142,26715,53.15,,0
+Bremer,First Congressional District,Public Health Region Two,MSA,3,14,12.1,9,22,8.8,110,24988,44.02,,0
+Buchanan,First Congressional District,Public Health Region Six,"Large (> 20,000)",0,33,0,33,11,5.3,123,20565,59.81,,0
+Buenavista,Fourth Congressional District,Public Health Region Three,"Large (> 20,000)",0,33,0,33,15,7.2,173,20823,83.08,,1
+Butler,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,5,3.5,77,14334,53.72,,1
+Calhoun,Fourth Congressional District,Public Health Region One,"Medium (10,000-20,000)",0,33,0,33,4,4,56,9927,56.41,,0
+Carroll,Fourth Congressional District,Public Health Region One,"Large (> 20,000)",1,21,4.8,28,35,16.9,137,20760,65.99,,0
+Cass,Third Congressional District,Public Health Region Four,"Medium (10,000-20,000)",2,19,15.2,7,13,9.9,110,13127,83.8,,1
+Cedar,Second Congressional District,Public Health Region Six,"Medium (10,000-20,000)",0,33,0,33,5,2.7,66,18505,35.67,,0
+Cerrogordo,Fourth Congressional District,Public Health Region Two,"Large (> 20,000)",9,10,20.8,2,175,40.5,799,43127,185.27,,0
+Cherokee,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",0,33,0,33,13,11.2,89,11658,76.34,,1
+Chickasaw,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,4,3.3,57,12012,47.45,,1
+Clarke,Second Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,2,2.1,102,9748,104.64,,0
+Clay,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",1,21,6.1,25,40,24.4,154,16384,93.99,,1
+Clayton,First Congressional District,Public Health Region Six,"Medium (10,000-20,000)",0,33,0,33,8,4.7,74,17043,43.42,,0
+Clinton,Second Congressional District,Public Health Region Six,"Large (> 20,000)",3,14,6.4,24,40,8.6,373,46460,80.28,,1
+Crawford,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",0,33,0,33,7,4.2,119,16525,72.01,,0
+Dallas,Third Congressional District,Public Health Region One,MSA,16,5,16.6,4,133,13.8,347,99678,34.81,,0
+Davis,Second Congressional District,Public Health Region Five,"Small (< 10,000)",0,33,0,33,7,7.7,42,9110,46.1,,0
+Decatur,Second Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,4,5.2,63,3653,172.46,,0
+Delaware,First Congressional District,Public Health Region Six,"Medium (10,000-20,000)",1,21,5.7,26,10,5.7,81,8100,100,,0
+Desmoines,Second Congressional District,Public Health Region Five,"Large (> 20,000)",6,12,15.4,6,90,23,409,38910,105.11,,0
+Dickinson,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",0,33,0,33,11,6.3,123,17703,69.48,,0
+Dubuque,First Congressional District,Public Health Region Six,MSA,11,9,11.1,12,197,20,837,99266,84.32,,1
+Emmet,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,3,3.2,67,9388,71.37,,1
+Fayette,First Congressional District,Public Health Region Two,"Large (> 20,000)",0,33,0,33,4,2,229,19509,117.38,,0
+Floyd,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,9,5.7,139,15627,88.95,,1
+Franklin,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,4,4,81,10019,80.85,,1
+Fremont,Third Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,2,3,38,6605,57.53,,1
+Greene,Fourth Congressional District,Public Health Region One,"Small (< 10,000)",0,33,0,33,4,4.5,68,8771,77.53,,0
+Grundy,Fourth Congressional District,Public Health Region One,MSA,0,33,0,33,7,5.7,38,12329,30.82,,0
+Guthrie,Third Congressional District,Public Health Region Four,MSA,0,33,0,33,7,6.6,75,10623,70.6,,0
+Hamilton,Fourth Congressional District,Public Health Region One,"Medium (10,000-20,000)",1,21,6.6,23,10,6.6,95,15039,63.17,,0
+Hancock,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,12,11.1,86,10795,79.67,,0
+Hardin,Fourth Congressional District,Public Health Region One,"Medium (10,000-20,000)",0,33,0,33,9,5.3,97,16878,57.47,,0
+Harrison,Fourth Congressional District,Public Health Region Four,MSA,0,33,0,33,8,5.5,68,14582,46.63,,0
+Henry,Second Congressional District,Public Health Region Five,"Large (> 20,000)",0,33,0,33,12,5.9,96,20482,46.87,,0
+Howard,First Congressional District,Public Health Region Two,"Small (< 10,000)",1,21,10.6,14,6,6.3,56,9469,59.14,,1
+Humboldt,Fourth Congressional District,Public Health Region Two,"Small (< 10,000)",0,33,0,33,2,2.1,45,9597,46.89,,1
+Ida,Fourth Congressional District,Public Health Region Three,"Small (< 10,000)",0,33,0,33,2,2.9,45,7005,64.24,,0
+Iowa,First Congressional District,Public Health Region Six,"Medium (10,000-20,000)",0,33,0,33,9,5.4,45,16662,27.01,,1
+Jackson,First Congressional District,Public Health Region Six,"Medium (10,000-20,000)",0,33,0,33,7,3.6,155,19485,79.55,,0
+Jasper,Second Congressional District,Public Health Region One,"Large (> 20,000)",3,14,8,22,23,6.1,358,37813,94.68,,0
+Jefferson,Second Congressional District,Public Health Region Five,"Medium (10,000-20,000)",0,33,0,33,14,8.8,119,15663,75.98,,0
+Johnson,Second Congressional District,Public Health Region Six,MSA,39,2,25.7,1,1250,82.3,640,152854,41.87,,1
+Jones,First Congressional District,Public Health Region Six,MSA,0,33,0,33,8,3.9,154,20646,74.59,,1
+Keokuk,Second Congressional District,Public Health Region Five,"Medium (10,000-20,000)",0,33,0,33,3,3,64,10033,63.79,,0
+Kossuth,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,9,6.1,110,14828,74.18,,0
+Lee,Second Congressional District,Public Health Region Five,"Large (> 20,000)",1,21,3,31,22,6.5,167,33555,49.77,,0
+Linn,First Congressional District,Public Health Region Six,MSA,27,3,11.8,10,498,21.8,1838,230299,79.81,,1
+Louisa,Second Congressional District,Public Health Region Five,"Medium (10,000-20,000)",0,33,0,33,1,0.9,42,10837,38.76,,0
+Lucas,Second Congressional District,Public Health Region Five,"Small (< 10,000)",0,33,0,33,6,6.9,61,8634,70.65,,1
+Lyon,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",0,33,0,33,3,2.5,27,11934,22.62,,0
+Madison,Third Congressional District,Public Health Region Four,MSA,0,33,0,33,9,5.5,111,16548,67.08,,0
+Mahaska,Second Congressional District,Public Health Region Five,"Large (> 20,000)",0,33,0,33,26,11.7,277,22190,124.83,,0
+Marion,Second Congressional District,Public Health Region Five,"Large (> 20,000)",1,21,3,31,52,15.6,198,33414,59.26,,0
+Marshall,First Congressional District,Public Health Region One,"Large (> 20,000)",0,33,0,33,22,5.5,424,40105,105.72,,1
+Mills,Third Congressional District,Public Health Region Four,MSA,0,33,0,33,6,4.1,71,14484,49.02,,1
+Mitchell,First Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,5,4.8,59,10565,55.84,,0
+Monona,Fourth Congressional District,Public Health Region Three,"Small (< 10,000)",0,33,0,33,12,13.7,56,8751,63.99,,0
+Monroe,Second Congressional District,Public Health Region Five,"Small (< 10,000)",0,33,0,33,7,9.2,43,7577,56.75,,0
+Montgomery,Third Congressional District,Public Health Region Four,"Medium (10,000-20,000)",1,21,9.7,17,12,11.6,95,10330,91.97,,1
+Muscatine,Second Congressional District,Public Health Region Five,"Large (> 20,000)",0,33,0,33,20,4.6,321,43235,74.25,,1
+O'Brien,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",0,33,0,33,7,5,100,14182,70.51,,0
+Osceola,Fourth Congressional District,Public Health Region Three,"Small (< 10,000)",0,33,0,33,5,8.1,22,6192,35.53,,0
+Page,Third Congressional District,Public Health Region Four,"Medium (10,000-20,000)",3,14,19.7,3,24,15.7,112,15211,73.63,,1
+Paloalto,Fourth Congressional District,Public Health Region Three,"Small (< 10,000)",0,33,0,33,4,4.4,66,8996,73.37,,0
+Plymouth,Fourth Congressional District,Public Health Region Three,"Large (> 20,000)",0,33,0,33,15,5.9,123,25698,47.86,,1
+Pocahontas,Fourth Congressional District,Public Health Region Three,"Small (< 10,000)",0,33,0,33,2,2.8,35,7078,49.45,,0
+Polk,Third Congressional District,Public Health Region One,MSA,48,1,9.8,15,1325,27.1,4212,492401,85.54,,0
+Pottawattamie,Third Congressional District,Public Health Region Four,MSA,12,6,12.8,8,125,13.4,873,93667,93.2,,0
+Poweshiek,First Congressional District,Public Health Region One,"Medium (10,000-20,000)",3,14,16.1,5,24,12.9,92,18662,49.3,,0
+Ringgold,Third Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,4,8.4,14,4663,30.02,,1
+Sac,Fourth Congressional District,Public Health Region Three,"Medium (10,000-20,000)",0,33,0,33,3,3.1,59,9814,60.12,,0
+Scott,Second Congressional District,Public Health Region Six,MSA,17,4,9.8,15,374,21.5,1377,174669,78.83,,0
+Shelby,Fourth Congressional District,Public Health Region Four,"Medium (10,000-20,000)",1,21,8.5,20,9,7.7,66,11746,56.19,,0
+Sioux,Fourth Congressional District,Public Health Region Three,"Large (> 20,000)",0,33,0,33,39,10.9,141,35872,39.31,,0
+Story,Fourth Congressional District,Public Health Region One,MSA,9,10,9.2,18,196,20,488,98537,49.52,,1
+Tama,First Congressional District,Public Health Region One,"Medium (10,000-20,000)",0,33,0,33,1,0.6,112,17135,65.36,,1
+Taylor,Third Congressional District,Public Health Region Four,"Small (< 10,000)",0,33,0,33,0,0,44,5896,74.63,,0
+Union,Third Congressional District,Public Health Region Four,"Medium (10,000-20,000)",1,21,8.2,21,20,16.4,174,12138,143.35,,0
+Vanburen,Second Congressional District,Public Health Region Five,"Small (< 10,000)",0,33,0,33,5,6.9,25,7203,34.71,,0
+Wapello,Second Congressional District,Public Health Region Five,"Large (> 20,000)",2,19,5.7,26,41,11.6,535,35437,150.97,,1
+Warren,Third Congressional District,Public Health Region One,MSA,0,33,0,33,24,4.6,235,52403,44.84,,0
+Washington,Second Congressional District,Public Health Region Five,MSA,1,21,4.4,29,20,8.9,78,22565,34.57,,0
+Wayne,Second Congressional District,Public Health Region Five,"Small (< 10,000)",0,33,0,33,12,18.5,33,6497,50.79,,0
+Webster,Fourth Congressional District,Public Health Region One,"Large (> 20,000)",4,13,10.8,13,45,12.1,524,36999,141.63,,1
+Winnebago,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,2,1.9,115,10679,107.69,,0
+Winneshiek,First Congressional District,Public Health Region Two,"Large (> 20,000)",0,33,0,33,37,18.4,89,20070,44.34,,0
+Woodbury,Fourth Congressional District,Public Health Region Three,MSA,12,6,11.4,11,137,13,1356,105941,128,,1
+Worth,First Congressional District,Public Health Region Two,"Small (< 10,000)",0,33,0,33,0,0,58,7443,77.93,,0
+Wright,Fourth Congressional District,Public Health Region Two,"Medium (10,000-20,000)",0,33,0,33,18,13.9,99,12943,76.49,,
+"Small (< 10,000)",,,"Small (< 10,000)",1,38,0.6,52,97,5.9,1050,0,0,,
+"Medium (10,000-20,000)",,,"Medium (10,000-20,000)",14,16,2.7,47,353,6.9,3433,0,0,,
+"Large (> 20,000)",,,"Large (> 20,000)",31,11,5,34,740,11.9,5638,0,0,,
+MSA,,,MSA,207,2,11,19,4619,24.6,14023,0,0,,34
+State Total,,,State Total,253,1,8,28,5809,18.3,24144,0,0,,
+First Congressional District,,,First Congressional District,58,7,7.5,32,1147,14.7,5720,0,0,,
+Second Congressional District,,,Second Congressional District,73,4,9.3,19,2046,26.1,5637,0,0,,
+Third Congressional District,,,Third Congressional District,83,6,9.7,24,1711,20.1,6594,0,0,,
+Fourth Congressional District,,,Fourth Congressional District,39,10,5.1,38,905,11.8,6193,0,0,,
+Public Health Region One,,,Public Health Region One,86,5,8.6,27,1878,18.8,7425,0,0,,
+Public Health Region Two,,,Public Health Region Two,13,21,5,45,319,12.3,2345,0,0,,
+Public Health Region Three,,,Public Health Region Three,13,16,3.9,42,318,9.6,2688,0,0,,
+Public Health Region Four,,,Public Health Region Four,20,14,7.6,31,256,9.7,2150,0,0,,
+Public Health Region Five,,,Public Health Region Five,11,13,3.3,36,348,10.3,2658,0,0,,
+Public Health Region Six,,,Public Health Region Six,110,3,11.1,17,2690,27.2,6878,0,0,,
