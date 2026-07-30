@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bgervais0612
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python, R , JavaScript and SQL
-- 💞️ I’m looking to collaborate on projects that help me better understand the world. 
+- 🌱 I have experience using R, Python, SQL and Power BI for data analysis.
+- 💞️ I’m looking to collaborate on projects that positively contribute to society. 
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy chillin' with my dogs!
